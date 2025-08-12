@@ -29,4 +29,8 @@ Make nodes:
 
 et voila, open `f__Shewanellaceae.taxburst.html`.
 
+For each node there will be a 'total count' and a 'hashes specific to
+this rank'; the latter should be those k-mers shared among two or more
+sub-ranks of that rank.
+
 Link: [f__Shewanellaceae.taxburst.html](https://farm.cse.ucdavis.edu/~ctbrown/f__Shewanellaceae.taxburst.html)
